@@ -1,0 +1,23 @@
+<svg class="logo-badge" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="50.0005" y1="100" x2="50.0005" y2="4.882813e-004">
+	<stop  offset="0" style="stop-color:#ACECF6"/>
+	<stop  offset="0.5323" style="stop-color:#31BEEF"/>
+	<stop  offset="1" style="stop-color:#ACECF6"/>
+</linearGradient>
+<circle class="circle-1" fill="url(#SVGID_1_)" cx="50" cy="50" r="50"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="50" y1="94.4443" x2="50" y2="5.5562">
+	<stop  offset="0" style="stop-color:#094953"/>
+	<stop  offset="0.5323" style="stop-color:#0593C6"/>
+	<stop  offset="1" style="stop-color:#094953"/>
+</linearGradient>
+<circle class="circle-2" fill="url(#SVGID_2_)" cx="50" cy="50" r="44.445"/>
+<circle class="circle-3" opacity="0.8" cx="50" cy="50" r="38.889"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="50.437" y1="34.0225" x2="50.437" y2="65.978">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#E5E5E5"/>
+</linearGradient>
+<path class="text" fill="url(#SVGID_4_)" d="M46.289,42.82L35.895,56.679H34.71L24.544,42.774v23.203h-6.018v-31.91h6.929l9.983,13.721
+	l9.983-13.721h6.884v31.91h-6.018V42.82z M72.227,39.493v26.44h-6.018v-26.44 M66.209,39.493H56.09v-5.47c9.208,0,17.004,0,26.258,0
+	v5.47H72.227"/>
+</svg>
